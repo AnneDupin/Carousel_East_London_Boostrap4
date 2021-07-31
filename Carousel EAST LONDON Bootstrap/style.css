@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: black;
+}
+
+#carouselExemple {
+    width: 50%;
+    margin: 0 auto; /*centrer*/
+    margin-top: 120px;
+}
+
+/* Methode pour faire des images responsives */
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
